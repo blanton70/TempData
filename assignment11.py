@@ -1,24 +1,5 @@
 """
-    Assignment Ten: Print Summary Statistics
-    Submitted by Robert Blanton
-    Submitted:  June 12, 2022
-
-    Assignment 9: Reading and using the contents of a file
-
-    Assignment 7: Filter List
-
-    Assignment 6: Recursive Bubble Sort
-
-    Assignment 4: Create a sensor dict and senson and filter list
-
-    Assignment 3: Build a menu providing an interface that allows a user to
-    interact with the program.
-
-    Assignment 2: Add code to prompt the user for a temperature in Celsius and
-    then converts that temperature to a specified different temperature
-    unit.
-
-    Assignment 1: This program demonstrates printing lines of text to the screen
+    
  """
 import math
 import pandas as pd
